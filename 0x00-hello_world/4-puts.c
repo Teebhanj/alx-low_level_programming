@@ -5,6 +5,7 @@
  * return- 0 if exited as espected, else non-zero
  */
 int main(void)
-{	puts("\"Programming is like building a multilingual puzzle");
+{
+	puts("\"Programming is like building a multilingual puzzle");
 	return (0);
 }
