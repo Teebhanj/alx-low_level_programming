@@ -2,9 +2,9 @@
 #include <time.h>
 #include <stdio.h>
 
-/* 
+/**
  * main - Entry point
- * Return: 0 if executed properl
+ * Return: 0 if executed properly
  */
 int main(void)
 {
