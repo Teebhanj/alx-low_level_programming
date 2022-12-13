@@ -5,7 +5,7 @@
 /* 
  * main - Entry point
  * Return: 0 if executed properl
- * /
+ */
 int main(void)
 {
 	int n;
