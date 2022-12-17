@@ -17,6 +17,6 @@ void more_numbers(void)
 			while (j < 11)
 			_putchar('\n');
 		}
+		_putchar('\n');
 	}
-	_putchar('\n');
 }
