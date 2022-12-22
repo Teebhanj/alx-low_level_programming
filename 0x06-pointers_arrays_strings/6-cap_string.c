@@ -25,7 +25,6 @@ char *cap_string(char *s)
 			{
 				s[i] -= 32;
 			}
-
 			/*
 			* if we find any character matching the below before any small
 			* letter we change that value to a capital letter.
