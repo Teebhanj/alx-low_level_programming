@@ -12,7 +12,6 @@ char *leet(char *s)
 	int sl[] = {97, 101, 111, 116, 108};
 	int ul[] = {65, 69, 79, 84, 76};
 	int n[] = {52, 51, 48, 55, 49};
-ear
 
 	/*iterate values in array s*/
 	while (s[c] != '\0')
