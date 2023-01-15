@@ -1,6 +1,6 @@
 #include <stdlib.h>
 
-/*
+/**
  * string_nconcat - function that concatenates two strings
  * @s1: string 1
  * @s2: string 2
