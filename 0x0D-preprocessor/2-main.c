@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include "main.h"
 
 /**
  * main - prints name of current file.
@@ -8,6 +9,6 @@
 
 char main(void)
 {
-	printf("%s", _FILE_);
+	printf("%s\n", _FILE_);
 	return (NULL);
 }
